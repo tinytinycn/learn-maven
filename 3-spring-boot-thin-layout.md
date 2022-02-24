@@ -32,3 +32,4 @@
 ------
 # 参考
 - [spring-boot-thin-launcher](https://github.com/spring-projects-experimental/spring-boot-thin-launcher)
+- [package-optimize-demo](https://gitee.com/xautlx/package-optimize-demo)
